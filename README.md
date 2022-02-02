@@ -8,7 +8,7 @@ Updating....
 
 |Time|Event|
 | :-----|:----- |
-|2 Feb 2022 | JHU Admitted|
+|1 Feb 2022 | JHU Admitted|
 |25 Jan 2022 | CUHK Admitted|
 |19 Jan 2022 | NTU Interview|
 |18 Jan 2022 | CMU Interview|
