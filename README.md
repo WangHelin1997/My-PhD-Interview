@@ -8,6 +8,8 @@ Updating....
 
 |Time|Event|
 | :-----|:----- |
+|16 Feb 2022 | OSU Admitted|
+|15 Feb 2022 | CMU Rejected|
 |1 Feb 2022 | JHU Admitted|
 |25 Jan 2022 | CUHK Admitted|
 |19 Jan 2022 | NTU Interview|
