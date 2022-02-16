@@ -3,8 +3,10 @@
 I will write down the experiences of my PhD interviews in this page!
 :)
 
+
+
 ## News
-Updating....
+I have made a decision to JHU!
 
 |Time|Event|
 | :-----|:----- |
