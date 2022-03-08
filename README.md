@@ -11,7 +11,8 @@ I have made a decision to JHU!
 |Time|Event|
 | :-----|:----- |
 |8 Mar 2022 | USC Rejected|
-|16 Feb 2022 | OSU Admitted|
+|19 Feb 2022 | Rochester ask for interview (I rejected it)|
+|16 Feb 2022 | OSU Admitted (I rejected it)|
 |15 Feb 2022 | CMU Rejected|
 |1 Feb 2022 | JHU Admitted|
 |25 Jan 2022 | CUHK Admitted|
