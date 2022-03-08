@@ -11,9 +11,9 @@ I have made a decision to JHU!
 |Time|Event|
 | :-----|:----- |
 |8 Mar 2022 | USC Rejected|
-|19 Feb 2022 | Rochester asked for interview (I rejected it as I have decided to JHU)|
+|19 Feb 2022 | Rochester asked for interview (I rejected it as I have decided to JHU.)|
 |16 Feb 2022 | OSU Admitted (I rejected it as I have decided to JHU.)|
-|15 Feb 2022 | CMU Rejected (The professor can provide me a funded master, however, I do not want a master.)|
+|15 Feb 2022 | CMU Rejected (The professor can provide me a funded master program, however, I do not want a master.)|
 |9 Feb 2022 | NTU asked for my GRE score (I rejected it as I have decided to JHU.)|
 |1 Feb 2022 | JHU Admitted|
 |25 Jan 2022 | CUHK Admitted|
