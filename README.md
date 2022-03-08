@@ -10,6 +10,7 @@ I have made a decision to JHU!
 
 |Time|Event|
 | :-----|:----- |
+|8 Mar 2022 | USC Rejected|
 |16 Feb 2022 | OSU Admitted|
 |15 Feb 2022 | CMU Rejected|
 |1 Feb 2022 | JHU Admitted|
