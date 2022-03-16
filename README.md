@@ -12,7 +12,7 @@ As far as I know, the most important factors that influnce the result of my appl
 
 ***opening***: means whether the professor has an opening this year. (Note that it may change!)
 
-In conclusion, I find considering as many professors and universities as possible works.
+In conclusion, I find considering as many professors and universities as possible works. (hahaha~)
 
 
 ## News
