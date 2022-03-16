@@ -10,7 +10,7 @@ As far as I know, the most important factors that influnce the result of my appl
 
 ***interview***: means whether you perform well in the interview with the professor or committee. (That's really important and take care all the time!)
 
-***opening***: means whether the professor has opening this year. (Note that it may change!)
+***opening***: means whether the professor has an opening this year. (Note that it may change!)
 
 In conclusion, I find considering as many professors and universities as possible works.
 
