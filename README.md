@@ -20,8 +20,8 @@ I have made a decision to JHU!
 
 |Time|Event|
 | :-----|:----- |
-|16 Mar 2022 | UIUC Rejected|
-|8 Mar 2022 | USC Rejected|
+|16 Mar 2022 | UIUC Rejected (The professor did not have an opening this year.)|
+|8 Mar 2022 | USC Rejected (without interview)|
 |19 Feb 2022 | Rochester asked for interview (I rejected it as I have decided to JHU.)|
 |16 Feb 2022 | OSU Admitted (I rejected it as I have decided to JHU.)|
 |15 Feb 2022 | CMU Rejected (The professor can provide me a funded master program, however, I do not want a master.)|
