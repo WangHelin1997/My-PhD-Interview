@@ -4,13 +4,13 @@ I will write down the experiences of my PhD interviews in this page!
 :)
 
 # Experiences
-As far as I know, the most important factors that influnce the result of my application are <font color=#FF000 >红色</font> **connection**, **interview** and **opening**.
+As far as I know, the most important factors that influnce the result of my application are ***connection***, ***interview*** and ***opening***.
 
-**connection**: means whether has a chat or email exchange with the professor. (It would be better if worked with the professor before or with a strong recommendation letter).
+***connection***: means whether has a chat or email exchange with the professor. (It would be better if worked with the professor before or with a strong recommendation letter).
 
-**interview**: means whether you perform well in the interview with the professor or committee. (That's really important and take care all the time!)
+***interview***: means whether you perform well in the interview with the professor or committee. (That's really important and take care all the time!)
 
-**opening**: means whether the professor has opening this year. (Note that it may change!)
+***opening***: means whether the professor has opening this year. (Note that it may change!)
 
 In conclusion, I find considering as many professors and universities as possible works.
 
