@@ -4,7 +4,7 @@ I will write down the experiences of my PhD interviews in this page!
 :)
 
 # Experiences
-As far as I know, the most important factors that influnce the result of my application are **connection**, **interview** and **opening**.
+As far as I know, the most important factors that influnce the result of my application are **$\color{red}{connection}$**, **interview** and **opening**.
 
 **connection**: means whether has a chat or email exchange with the professor. (It would be better if worked with the professor before or with a strong recommendation letter).
 
