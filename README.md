@@ -20,6 +20,7 @@ I have made a decision to JHU!
 
 |Time|Event|
 | :-----|:----- |
+|17 Mar 2022 | Columbia Rejected|
 |16 Mar 2022 | UIUC Rejected (The professor did not have an opening this year.)|
 |8 Mar 2022 | USC Rejected (without interview)|
 |19 Feb 2022 | Rochester asked for interview (I rejected it as I have decided to JHU.)|
@@ -38,3 +39,8 @@ I have made a decision to JHU!
 |17 Sep 2021 | AI Thrust (HKUST) 2022 Fall Admission Interview|
 |13 July 2021 | Interview & Quiz for Department PhD Admission Workshop at CUHK|
 |12 July 2021 | Department PhD Admission Workshop at CUHK|
+
+## Summary
+|CUHK|HKUST|NUS|NTU|CMU|JHU|UIUC|Columbia|USC|Rochester|OSU|
+| :-----|:----- |:-----|:----- |:-----|:----- |:-----|:----- |:-----|:----- |:----- |
+| √ |×|×|？|×|√|× |×|？ |√ |
