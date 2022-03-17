@@ -43,4 +43,4 @@ I have made a decision to JHU!
 ## Summary
 |CUHK|HKUST|NUS|NTU|CMU|JHU|UIUC|Columbia|USC|Rochester|OSU|
 | :-----|:----- |:-----|:----- |:-----|:----- |:-----|:----- |:-----|:----- |:----- |
-| &radic; |×|×|？|×|&radic|× |×|×|？ |&radic |
+| &radic; |×|×|？|×|&radic;|× |×|×|？ |&radic; |
